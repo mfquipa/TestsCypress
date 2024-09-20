@@ -1,0 +1,17 @@
+{
+  "name": "tests-cypress",
+  "version": "1.0.0",
+  "description": "tests de practicas",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "mafequipa",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^13.14.2",
+    "mochawesome": "^7.1.3",
+    "mochawesome-merge": "^4.3.0",
+    "mochawesome-report-generator": "^6.2.0"
+  }
+}
